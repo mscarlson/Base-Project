@@ -1,0 +1,1 @@
+console.log("How do I make text change color again?");
